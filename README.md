@@ -1,6 +1,6 @@
 ### Hi there, I'm Saurabh 👋
 
-## I'm a Pseudo Wed Developer !!
+## I'm a Wed Developer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
